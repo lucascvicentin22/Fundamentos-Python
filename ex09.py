@@ -1,0 +1,1 @@
+# 9. Crie um programa que receba o nome, o peso e a altura de uma pessoa. Em seguida, calcule o seu IMC. A altura deve ser informada no formato `metros.centimetros` (exemplo 1.79). A fórmula do IMC é a seguinte: peso / (altura * altura).

@@ -1,0 +1,1 @@
+# 7. Faça um programa que receba uma temperatura em graus Celsius e exiba a temperatura equivalente em graus Fahrenheit. A fórmula de conversão é: Fahrenheit = (Celsius * 9/5) + 32.
