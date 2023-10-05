@@ -1,1 +1,0 @@
-# 8. Crie um programa que receba um número inteiro e exiba se ele é par ou ímpar.

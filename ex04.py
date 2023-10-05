@@ -1,1 +1,0 @@
-# 4. Crie um programa que peça ao usuário para digitar dois números inteiros e exiba a soma, subtração, multiplicação e divisão dos números.
