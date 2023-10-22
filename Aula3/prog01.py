@@ -136,3 +136,22 @@ if __name__ == "__main__":
     usuario.clear()
     print(usuario)
     
+
+    ############################################
+    # Cópia de dicionários
+    ############################################
+
+    # Aqui temos que ter o mesmo cuidado que tivemos em listas, ou seja, fazer a cópia dos valores de maneira correta.
+    itens = {"nome": "Banana", "quantidade": 2}
+    itens_b = itens
+
+    itens_b.update({"valor": 4})
+
+    print(itens, itens_b)
+
+    # Assim como nas listas, podemos utilizar o método copy() em dicionários
+
+    itens_c = itens.copy()
+    itens_c.update({"dia": "Domingo"})
+
+    print(itens, itens_b, itens_c)
